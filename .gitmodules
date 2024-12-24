@@ -1,3 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:sinlinx/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:sinlinx/rustlings.git
